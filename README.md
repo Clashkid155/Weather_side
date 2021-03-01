@@ -4,3 +4,6 @@
 
 A Weather app that isn't complete.
 Some stuffs aren't working perfectly and am tired.
+
+## UI
+**By** [Michel Fraga on Dribble](https://dribbble.com/shots/11068972-Weather)
